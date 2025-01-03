@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Census Data Analysis Project
 
 ## Overview
@@ -15,3 +16,7 @@ To run the project, install the required libraries:
 ```bash
 pip install -r requirements.txt
  
+=======
+# gdpDataAnalytics
+US EcoCensusDataAnalysis
+>>>>>>> e4e8a51d7545dd2b42b143e0eb740342d3628f63
