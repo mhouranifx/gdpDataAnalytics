@@ -1,5 +1,4 @@
 ---
-layout: default
 title: "Exploring U.S. Economic Trends Through Census Data: A Predictive Analysis"
 ---
 
